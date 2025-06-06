@@ -33,3 +33,5 @@ const uploadonCloudinary=async(localpath)=>{
        });
     
     console.log(uploadResult);
+
+export {uploadonCloudinary}
